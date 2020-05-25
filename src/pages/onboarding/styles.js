@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
     marginTop: 5,
   },
   getStaterdContainer: {
-    backgroundColor: '#4B037C',
+    backgroundColor: '#373574',
     width: Width - Width / 2,
     height: 60,
     alignItems: 'center',

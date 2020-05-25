@@ -16,7 +16,8 @@ const styles = StyleSheet.create({
     fontSize: 14,
     paddingHorizontal: 10,
     marginBottom: 90,
-    //textAlign: enum('auto','left','rigth','center','justify'),
+    fontWeight: 'bold',
+    //textAlign: enum('justify'),
   },
 });
 export default styles;

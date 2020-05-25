@@ -6,7 +6,20 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   header: {
-    marginBottom: 470,
+    marginBottom: 10,
+  },
+  icon: {
+    width: 70,
+    height: 70,
+    marginBottom: 120,
+    marginHorizontal: 20,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  containerBotton: {
+    flexDirection: 'row',
+    justifyContent: 'center',
+    alignItems: 'center',
   },
 });
 export default styles;
