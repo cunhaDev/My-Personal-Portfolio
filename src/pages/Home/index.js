@@ -8,7 +8,7 @@ export default function Home() {
       <Image source={HeaderHome} style={styles.header} />
       <View style={styles.ViewDescription}>
         <Text style={styles.TextDescription}>
-          Olá, me chamo Mateus, tenho 20 anos e sou estudante do nível Superior
+          Olá, me chamo Mateus, tenho 20 anos e sou estudante de nível Superior
           em Analise e desenvolvimento de Sistemas, Programador Back-End Junior,
           caminhando para FullStack Pleno com as tecnologias Javacript, Node.js,
           React.js e React Native. Apaixonado pelo desenvolvimento Móbile, Mas
